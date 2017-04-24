@@ -12,7 +12,7 @@ $Alexa->setApplicationName("Xbox On");  // Change this to whatever you are calli
 
 // Set Xbox IP address and live ID
 $Xbox->setIPAddress("192.168.0.14");  // Set the public IP address of your Xbox here
-$Xbox->setXboxLiveID("c00perman25");  // Set the Xbox live ID here
+$Xbox->setXboxLiveID("FD000FB966D73C38");  // Set the Xbox live ID here
 
 // Authenticate request and execute
 if($Alexa->auth()) {
