@@ -7,7 +7,7 @@ $Alexa = new Alexa();
 $Xbox = new XboxOn();
 
 // Set alexa app specific data
-$Alexa->setApplicationID("amzn1.ask.skill.12345678-1234-1234-1234-123456789123");  // Set the application ID for your skill here
+$Alexa->setApplicationID("amzn1.ask.skill.5541a44d-f2de-475f-8699-a56e185f61a4");  // Set the application ID for your skill here
 $Alexa->setApplicationName("Xbox On");  // Change this to whatever you are calling your app
 
 // Set Xbox IP address and live ID
